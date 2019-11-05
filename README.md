@@ -141,5 +141,6 @@
     poderia ser possível identificar por exemplo a quantidade de cartas de um
     determinado naipe, assim como as cartas de forma individual.
 - Os filtros utilizados foram blur + threshold e detecção de bordas (canny)
+- A barra de cores frequentes apresenta as 7 cores mais frequentes
 - Tive dificuldade em reconhecer algum padrão ou em extrair alguma informação
     na 5 (o filtro de bordas não seria de muita ajuda nesse caso específico).
